@@ -1,6 +1,6 @@
 ---
 name: calm-ui-design-system
-description: Use when building or restyling a web app UI: first offers color scheme and font pairing choices in chat, then applies a calm token-based design system (type, motion, components, dark mode, mobile).
+description: "Use when building or restyling a web app UI: first offers color scheme and font pairing choices in chat, then applies a calm token-based design system (type, motion, components, dark mode, mobile)."
 ---
 
 # Calm UI design system
