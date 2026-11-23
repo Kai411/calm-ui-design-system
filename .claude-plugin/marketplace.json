@@ -1,0 +1,11 @@
+{
+  "name": "calm-ui",
+  "owner": { "name": "Kai411" },
+  "plugins": [
+    {
+      "name": "calm-ui-design-system",
+      "source": "./",
+      "description": "Calm, token-based UI design system with colour scheme and font pairing choices."
+    }
+  ]
+}
