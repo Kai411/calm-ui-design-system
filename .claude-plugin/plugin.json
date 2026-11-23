@@ -1,0 +1,7 @@
+{
+  "name": "calm-ui-design-system",
+  "description": "A calm, token-based UI design system. Claude first offers colour scheme and font pairing choices, then applies type, motion, components, dark mode and mobile rules.",
+  "version": "1.0.0",
+  "author": { "name": "Kai411" },
+  "license": "MIT"
+}
